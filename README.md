@@ -80,6 +80,11 @@ src
 │   └── index.js            # Entry point
 ```
 
+#How to use?
+- **CREATE**: click over the week, and select the present or future time in the calendar to add your event for the particular time slot.
+- **UPDATE**: Hover over the particular event and you will see an arrow to increase the time slow, by dragging that time slot it will automatically gets updated.
+- **DELETE**: click the particular event and it will open a pop up, confirm it and your event will get deleted.
+
 ## Acknowledgments
 This project utilizes [FullCalendar](https://fullcalendar.io/), [Tailwind CSS](https://tailwindcss.com/), and [SweetAlert2](https://sweetalert2.github.io/) for a smooth and responsive calendar experience. Special thanks to the developers of these libraries for providing open-source tools for building modern UIs.
 
